@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aditperm
 - 👀 I’m interested in Mobile Dev And Front-End
-- 🌱 I’m currently learning Framework Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Frontend Framework
+- 📫 How to reach me [Twitter] (https://twitter.com/aditperm)
 
 <!---
 aditperm/aditperm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
